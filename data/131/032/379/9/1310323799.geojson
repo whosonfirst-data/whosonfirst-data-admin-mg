@@ -54,7 +54,7 @@
         "wk:page":"Fiadanana%2C_Ambohimahasoa"
     },
     "wof:country":"MG",
-    "wof:geomhash":"1360501fc3023fe21c1055b0df5f2054",
+    "wof:geomhash":"3097cfe88fec5aa3dcef62dd96d5e6b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     47.18333,
     -20.86667000000001
 ],
-  "geometry": {"coordinates":[47.18333,-20.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.18333,-20.86667],"type":"Point"}
 }

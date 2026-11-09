@@ -64,7 +64,7 @@
         "wk:page":"Sahatavy"
     },
     "wof:country":"MG",
-    "wof:geomhash":"28f760171318cc915b10030da7ca748e",
+    "wof:geomhash":"d9a6293520e298701320be6b90942c52",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,5 +92,5 @@
     49.0,
     -17.45
 ],
-  "geometry": {"coordinates":[49.0,-17.45],"type":"Point"}
+  "geometry": {"coordinates":[49,-17.45],"type":"Point"}
 }

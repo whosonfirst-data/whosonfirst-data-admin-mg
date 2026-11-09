@@ -64,7 +64,7 @@
         "wk:page":"Ambodimanary"
     },
     "wof:country":"MG",
-    "wof:geomhash":"22478e3c289cf033570301a67831f30e",
+    "wof:geomhash":"f9cd0d13266f6949c174783be36cec76",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,5 +90,5 @@
     48.0,
     -15.23333
 ],
-  "geometry": {"coordinates":[48.0,-15.23333],"type":"Point"}
+  "geometry": {"coordinates":[48,-15.23333],"type":"Point"}
 }

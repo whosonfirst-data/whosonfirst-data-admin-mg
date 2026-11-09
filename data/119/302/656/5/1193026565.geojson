@@ -59,7 +59,7 @@
         "wk:page":"Ianapera"
     },
     "wof:country":"MG",
-    "wof:geomhash":"b1a238f2d174af15a9cb922501dcd682",
+    "wof:geomhash":"e051d4969a3c19d9af54dd81caf0001e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,5 +85,5 @@
     45.13333,
     -23.61667000000001
 ],
-  "geometry": {"coordinates":[45.13333,-23.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.13333,-23.61667],"type":"Point"}
 }

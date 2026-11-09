@@ -54,7 +54,7 @@
         "wk:page":"Belavabary"
     },
     "wof:country":"MG",
-    "wof:geomhash":"1d9570d6ec4ed38bbad775479371fd1d",
+    "wof:geomhash":"6026baf062e10223f88df998f3efbc8f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     48.0,
     -18.83333
 ],
-  "geometry": {"coordinates":[48.0,-18.83333],"type":"Point"}
+  "geometry": {"coordinates":[48,-18.83333],"type":"Point"}
 }

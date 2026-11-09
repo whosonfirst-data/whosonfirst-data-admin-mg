@@ -66,7 +66,7 @@
         "wk:page":"Ambohibary%2C_Antsirabe_II"
     },
     "wof:country":"MG",
-    "wof:geomhash":"1b3f83dac94fa37f74aa60a4c3d644f3",
+    "wof:geomhash":"392ad435a4f66cb4917e681e5780b6e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,5 +92,5 @@
     47.15,
     -19.61667000000001
 ],
-  "geometry": {"coordinates":[47.15,-19.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.15,-19.61667],"type":"Point"}
 }

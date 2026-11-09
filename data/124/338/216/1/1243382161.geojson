@@ -57,7 +57,7 @@
         "wk:page":"Ramainandro"
     },
     "wof:country":"MG",
-    "wof:geomhash":"309f55fda4fac008ddea13ffb281ffb3",
+    "wof:geomhash":"9b512f53370865461eaff819771d49f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,5 +83,5 @@
     47.0,
     -19.3
 ],
-  "geometry": {"coordinates":[47.0,-19.3],"type":"Point"}
+  "geometry": {"coordinates":[47,-19.3],"type":"Point"}
 }

@@ -37,7 +37,7 @@
         "wk:page":"Salehy"
     },
     "wof:country":"MG",
-    "wof:geomhash":"1e6e6f35402f02b016ee8317dfc789e2",
+    "wof:geomhash":"63455c6e079578b5fdde4f0e0660e78a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,5 +62,5 @@
     48.78333,
     -20.0
 ],
-  "geometry": {"coordinates":[48.78333,-20.0],"type":"Point"}
+  "geometry": {"coordinates":[48.78333,-20],"type":"Point"}
 }

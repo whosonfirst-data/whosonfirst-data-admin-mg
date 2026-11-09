@@ -51,7 +51,7 @@
         "wk:page":"Mizilo_Gara"
     },
     "wof:country":"MG",
-    "wof:geomhash":"ffb931e939f149ab6cb80c21ef3eb704",
+    "wof:geomhash":"32d1d19e43c54a68e0689be4f919a009",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,5 +77,5 @@
     47.95,
     -22.0
 ],
-  "geometry": {"coordinates":[47.95,-22.0],"type":"Point"}
+  "geometry": {"coordinates":[47.95,-22],"type":"Point"}
 }

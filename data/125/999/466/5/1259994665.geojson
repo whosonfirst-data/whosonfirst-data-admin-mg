@@ -62,7 +62,7 @@
         "gn:id":1062740
     },
     "wof:country":"MG",
-    "wof:geomhash":"089a45a8499a35c73f3d85da7282640c",
+    "wof:geomhash":"feea4d46490a1c5a8902b32dafb743d6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,5 +88,5 @@
     45.88333,
     -24.36667000000001
 ],
-  "geometry": {"coordinates":[45.88333,-24.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.88333,-24.36667],"type":"Point"}
 }

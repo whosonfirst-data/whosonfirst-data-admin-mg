@@ -54,7 +54,7 @@
         "wk:page":"Didy"
     },
     "wof:country":"MG",
-    "wof:geomhash":"146792a71a26e27c7cc07ff3bffb0660",
+    "wof:geomhash":"dc1d2b474272eb6aa171dd26420998ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     48.53333,
     -18.11667000000001
 ],
-  "geometry": {"coordinates":[48.53333,-18.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.53333,-18.11667],"type":"Point"}
 }

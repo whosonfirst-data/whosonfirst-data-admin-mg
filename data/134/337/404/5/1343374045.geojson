@@ -52,7 +52,7 @@
         "wk:page":"Antondabe"
     },
     "wof:country":"MG",
-    "wof:geomhash":"7be5066c2f46802ecbe020c06e7930eb",
+    "wof:geomhash":"b2a0db21933f2472474458ae94362bdc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,5 +78,5 @@
     47.11667,
     -23.86667000000001
 ],
-  "geometry": {"coordinates":[47.11667,-23.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.11667,-23.86667],"type":"Point"}
 }

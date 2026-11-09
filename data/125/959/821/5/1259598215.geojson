@@ -58,7 +58,7 @@
         "wk:page":"Andilanatoby"
     },
     "wof:country":"MG",
-    "wof:geomhash":"1cf8515558d76f0137320117bb2dca7f",
+    "wof:geomhash":"bb187421b6abb0cc43de28aa821c89c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,5 +84,5 @@
     48.23333,
     -17.93332999999999
 ],
-  "geometry": {"coordinates":[48.23333,-17.93332999999999],"type":"Point"}
+  "geometry": {"coordinates":[48.23333,-17.93333],"type":"Point"}
 }

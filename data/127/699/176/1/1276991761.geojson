@@ -102,7 +102,7 @@
         "wk:page":"%C3%8Ele_Sainte-Marie"
     },
     "wof:country":"MG",
-    "wof:geomhash":"d343d5d27af738d5505a127af1e97272",
+    "wof:geomhash":"1c093851d13fb3eabf987f5278d7af22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,5 +128,5 @@
     46.96667,
     -16.13332999999999
 ],
-  "geometry": {"coordinates":[46.96667,-16.13332999999999],"type":"Point"}
+  "geometry": {"coordinates":[46.96667,-16.13333],"type":"Point"}
 }

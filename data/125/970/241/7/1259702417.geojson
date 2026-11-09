@@ -54,7 +54,7 @@
         "wk:page":"Fenoarivo%2C_Farafangana"
     },
     "wof:country":"MG",
-    "wof:geomhash":"9512c8afc4e530ec0c862ba8db54510c",
+    "wof:geomhash":"e13e1b93ea929ea5f55515a2481034bc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     47.56667,
     -23.11667000000001
 ],
-  "geometry": {"coordinates":[47.56667,-23.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.56667,-23.11667],"type":"Point"}
 }

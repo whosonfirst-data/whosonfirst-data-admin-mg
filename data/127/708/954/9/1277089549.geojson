@@ -61,7 +61,7 @@
         "wk:page":"Mandronarivo"
     },
     "wof:country":"MG",
-    "wof:geomhash":"80c4fd43b54f1cd23bf18dac9234fae4",
+    "wof:geomhash":"79330b8caf2c3fa542f5e1adcb9e124b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     45.63333,
     -21.11667000000001
 ],
-  "geometry": {"coordinates":[45.63333,-21.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.63333,-21.11667],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Kianjavato"
     },
     "wof:country":"MG",
-    "wof:geomhash":"81e6997c76f8f1572eb7fa04ff58e040",
+    "wof:geomhash":"8163869e96be561cde7c64834f60178d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     47.86667,
     -21.36667000000001
 ],
-  "geometry": {"coordinates":[47.86667,-21.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.86667,-21.36667],"type":"Point"}
 }

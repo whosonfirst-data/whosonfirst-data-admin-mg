@@ -54,7 +54,7 @@
         "wk:page":"Tanambe"
     },
     "wof:country":"MG",
-    "wof:geomhash":"481c2de7a39a499c6fe1a7e77b7e9af7",
+    "wof:geomhash":"516da9a5fae1f404e4f2e2fbb560f433",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     48.45,
     -17.36667000000001
 ],
-  "geometry": {"coordinates":[48.45,-17.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.45,-17.36667],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ivato%2C_Ambositra"
     },
     "wof:country":"MG",
-    "wof:geomhash":"dfe8232f3b2be09516bcbf80e35694bf",
+    "wof:geomhash":"8784d5c876ff837ae8db967538341264",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     47.2,
     -20.61667000000001
 ],
-  "geometry": {"coordinates":[47.2,-20.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.2,-20.61667],"type":"Point"}
 }

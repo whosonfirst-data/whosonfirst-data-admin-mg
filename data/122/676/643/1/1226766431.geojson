@@ -54,7 +54,7 @@
         "wk:page":"Fenoarivo%2C_Ambatofinandrahana"
     },
     "wof:country":"MG",
-    "wof:geomhash":"1184072cf1359c070fa61b7f70543028",
+    "wof:geomhash":"7ddd07c706b0e3ae24dc9426e35ab704",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     46.88333,
     -20.86667000000001
 ],
-  "geometry": {"coordinates":[46.88333,-20.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.88333,-20.86667],"type":"Point"}
 }

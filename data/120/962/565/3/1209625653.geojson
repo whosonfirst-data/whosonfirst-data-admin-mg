@@ -55,7 +55,7 @@
         "wk:page":"Bemahatazana%2C_Tsiroanomandidy"
     },
     "wof:country":"MG",
-    "wof:geomhash":"7408e6c1f91d6ae8d0fc13b8ba93e5f5",
+    "wof:geomhash":"f733ae88a1040a708c9025535f623129",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -78,5 +78,5 @@
     46.0,
     -19.35
 ],
-  "geometry": {"coordinates":[46.0,-19.35],"type":"Point"}
+  "geometry": {"coordinates":[46,-19.35],"type":"Point"}
 }

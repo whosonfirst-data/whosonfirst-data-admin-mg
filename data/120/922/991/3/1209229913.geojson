@@ -51,7 +51,7 @@
         "wk:page":"Mandialaza"
     },
     "wof:country":"MG",
-    "wof:geomhash":"f12646ed986996814d3d435484355d86",
+    "wof:geomhash":"22f243c6f40f91da2e36d9f2703f5ff7",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -74,5 +74,5 @@
     48.03333,
     -18.61667000000001
 ],
-  "geometry": {"coordinates":[48.03333,-18.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.03333,-18.61667],"type":"Point"}
 }

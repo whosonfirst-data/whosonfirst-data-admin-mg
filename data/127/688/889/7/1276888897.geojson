@@ -54,7 +54,7 @@
         "wk:page":"Marosangy"
     },
     "wof:country":"MG",
-    "wof:geomhash":"996d002fff360d7e1b5b6c54b30bb4cb",
+    "wof:geomhash":"7296ea38625170ab4d88fc52f77326c0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     48.3,
     -21.0
 ],
-  "geometry": {"coordinates":[48.3,-21.0],"type":"Point"}
+  "geometry": {"coordinates":[48.3,-21],"type":"Point"}
 }

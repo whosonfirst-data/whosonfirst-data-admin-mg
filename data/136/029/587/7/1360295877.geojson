@@ -64,7 +64,7 @@
         "wk:page":"Ampasinambo"
     },
     "wof:country":"MG",
-    "wof:geomhash":"e7bed0aebce797f8eb22594c2325c1fc",
+    "wof:geomhash":"f0e177164e2519d189007aecc302bb77",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,5 +90,5 @@
     48.0,
     -20.51667
 ],
-  "geometry": {"coordinates":[48.0,-20.51667],"type":"Point"}
+  "geometry": {"coordinates":[48,-20.51667],"type":"Point"}
 }

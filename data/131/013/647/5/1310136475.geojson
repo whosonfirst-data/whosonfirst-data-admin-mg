@@ -67,7 +67,7 @@
         "wk:page":"Ambalasoa"
     },
     "wof:country":"MG",
-    "wof:geomhash":"fe913e0b4ccde48b46e888775b827af3",
+    "wof:geomhash":"7dd4b5ce8acfa05fb8e6e54ea40037c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,5 +95,5 @@
     46.0,
     -23.11667000000001
 ],
-  "geometry": {"coordinates":[46.0,-23.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[46,-23.11667],"type":"Point"}
 }

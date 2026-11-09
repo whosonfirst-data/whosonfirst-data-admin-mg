@@ -63,7 +63,7 @@
         "wk:page":"Ambatolahy%2C_Miandrivazo"
     },
     "wof:country":"MG",
-    "wof:geomhash":"186c144957dbc777a2aa2b271dbdf5fb",
+    "wof:geomhash":"bba0ea7db0063632d660102c8048e761",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,5 +89,5 @@
     45.53807000000001,
     -20.01102
 ],
-  "geometry": {"coordinates":[45.53807000000001,-20.01102],"type":"Point"}
+  "geometry": {"coordinates":[45.53807,-20.01102],"type":"Point"}
 }

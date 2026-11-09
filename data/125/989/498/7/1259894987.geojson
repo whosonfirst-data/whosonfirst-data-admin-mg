@@ -58,7 +58,7 @@
         "wk:page":"Ivandrika"
     },
     "wof:country":"MG",
-    "wof:geomhash":"d3da7a57f15579bf21e328f0b060fb85",
+    "wof:geomhash":"ea63250832790b022a4fef0a8545157d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,5 +84,5 @@
     47.73333,
     -22.86667000000001
 ],
-  "geometry": {"coordinates":[47.73333,-22.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.73333,-22.86667],"type":"Point"}
 }

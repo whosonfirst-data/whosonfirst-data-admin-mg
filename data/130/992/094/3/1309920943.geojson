@@ -64,7 +64,7 @@
         "wk:page":"Ambahita"
     },
     "wof:country":"MG",
-    "wof:geomhash":"f17860adb37fb8a9cf47c39366bf86af",
+    "wof:geomhash":"e520c5fa964e8fb71c0879df72e1f972",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,5 +90,5 @@
     45.26667,
     -24.0
 ],
-  "geometry": {"coordinates":[45.26667,-24.0],"type":"Point"}
+  "geometry": {"coordinates":[45.26667,-24],"type":"Point"}
 }

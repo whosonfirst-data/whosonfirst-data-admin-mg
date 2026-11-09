@@ -115,7 +115,7 @@
     },
     "wof:country":"MG",
     "wof:created":1459009623,
-    "wof:geomhash":"512694284dbe755dd851d49d7370a8be",
+    "wof:geomhash":"6dbc479cf0e9afc537ab2a81cdd3b8be",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -138,5 +138,5 @@
     50.0,
     -13.35
 ],
-  "geometry": {"coordinates":[50.0,-13.35],"type":"Point"}
+  "geometry": {"coordinates":[50,-13.35],"type":"Point"}
 }

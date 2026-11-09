@@ -58,7 +58,7 @@
         "wk:page":"Beratsimanana"
     },
     "wof:country":"MG",
-    "wof:geomhash":"b7cb684f758a28c48b0c95e8cd27c545",
+    "wof:geomhash":"7d374f2c8cd191e912f07e2d5ecf4359",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,5 +84,5 @@
     46.88333,
     -16.88332999999999
 ],
-  "geometry": {"coordinates":[46.88333,-16.88332999999999],"type":"Point"}
+  "geometry": {"coordinates":[46.88333,-16.88333],"type":"Point"}
 }

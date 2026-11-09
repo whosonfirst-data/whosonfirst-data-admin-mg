@@ -58,7 +58,7 @@
         "wk:page":"Mahasolo"
     },
     "wof:country":"MG",
-    "wof:geomhash":"cf630fde1f7eae0e5a252a20f8beb450",
+    "wof:geomhash":"7cf4d460a3833be4517332a0f48ad554",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,5 +84,5 @@
     46.36667,
     -19.11667000000001
 ],
-  "geometry": {"coordinates":[46.36667,-19.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.36667,-19.11667],"type":"Point"}
 }

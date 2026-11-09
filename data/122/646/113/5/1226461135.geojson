@@ -57,7 +57,7 @@
         "wk:page":"Ambatomainty%2C_Amparafaravola"
     },
     "wof:country":"MG",
-    "wof:geomhash":"6d8a7202fea89c03a2cf228846d8ef91",
+    "wof:geomhash":"ea79093465ef28ec3a8c4d204fa31075",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,5 +83,5 @@
     48.21667,
     -17.68332999999999
 ],
-  "geometry": {"coordinates":[48.21667,-17.68332999999999],"type":"Point"}
+  "geometry": {"coordinates":[48.21667,-17.68333],"type":"Point"}
 }

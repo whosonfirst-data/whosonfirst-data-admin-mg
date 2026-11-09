@@ -54,7 +54,7 @@
         "wk:page":"Anjahambe"
     },
     "wof:country":"MG",
-    "wof:geomhash":"9837ef49af48350093c85f4e60b2a916",
+    "wof:geomhash":"9b3f9d819b72c289c377912aa502fa43",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     49.13333,
     -17.38332999999999
 ],
-  "geometry": {"coordinates":[49.13333,-17.38332999999999],"type":"Point"}
+  "geometry": {"coordinates":[49.13333,-17.38333],"type":"Point"}
 }

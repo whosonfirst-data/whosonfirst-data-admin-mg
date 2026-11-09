@@ -54,7 +54,7 @@
         "wk:page":"Antombana"
     },
     "wof:country":"MG",
-    "wof:geomhash":"d1fb47d257a3c52bf772e357e0150cac",
+    "wof:geomhash":"5dd56c72b476efb4a66a4c23c53d06d6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     50.16667,
     -15.0
 ],
-  "geometry": {"coordinates":[50.16667,-15.0],"type":"Point"}
+  "geometry": {"coordinates":[50.16667,-15],"type":"Point"}
 }

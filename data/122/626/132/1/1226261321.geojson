@@ -54,7 +54,7 @@
         "wk:page":"Miarinarivo%2C_Vavatenina"
     },
     "wof:country":"MG",
-    "wof:geomhash":"b66420c3f009b7a7f8e9e9c48dee04a5",
+    "wof:geomhash":"fd037f4073051c11bd9b5f8f34038c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     49.16667,
     -17.63332999999999
 ],
-  "geometry": {"coordinates":[49.16667,-17.63332999999999],"type":"Point"}
+  "geometry": {"coordinates":[49.16667,-17.63333],"type":"Point"}
 }

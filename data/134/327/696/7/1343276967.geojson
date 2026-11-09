@@ -123,7 +123,7 @@
         "wk:page":"Ihorombe%2C_Farafangana"
     },
     "wof:country":"MG",
-    "wof:geomhash":"37073bec5cd228bee50503ed36a9415b",
+    "wof:geomhash":"582b2e54c2adbbd0d9048828d8644424",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,5 +149,5 @@
     47.53333,
     -23.0
 ],
-  "geometry": {"coordinates":[47.53333,-23.0],"type":"Point"}
+  "geometry": {"coordinates":[47.53333,-23],"type":"Point"}
 }

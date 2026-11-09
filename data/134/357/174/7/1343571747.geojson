@@ -42,7 +42,7 @@
         "wk:page":"Ranotsara"
     },
     "wof:country":"MG",
-    "wof:geomhash":"a6a25d33d8741aaef2eb157ec8e29bd8",
+    "wof:geomhash":"1e70c15d3d6532ffa5b29a4774fbbaff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     46.35,
     -20.86667000000001
 ],
-  "geometry": {"coordinates":[46.35,-20.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.35,-20.86667],"type":"Point"}
 }

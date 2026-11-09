@@ -54,7 +54,7 @@
         "wk:page":"Ankazomborona"
     },
     "wof:country":"MG",
-    "wof:geomhash":"00b13b7ae0d2a59883ca125fac6aaba2",
+    "wof:geomhash":"b071edde506855d740b66b26c665e9b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     46.75,
     -16.11667000000001
 ],
-  "geometry": {"coordinates":[46.75,-16.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.75,-16.11667],"type":"Point"}
 }

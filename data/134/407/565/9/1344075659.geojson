@@ -54,7 +54,7 @@
         "wk:page":"Vohilava%2C_Mananjary"
     },
     "wof:country":"MG",
-    "wof:geomhash":"e58f465a712e11ee5eaf6827bfbfdd25",
+    "wof:geomhash":"89ead2d66f553f136c43e013049d2a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     48.0,
     -21.06667
 ],
-  "geometry": {"coordinates":[48.0,-21.06667],"type":"Point"}
+  "geometry": {"coordinates":[48,-21.06667],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Tsaramandroso"
     },
     "wof:country":"MG",
-    "wof:geomhash":"0ee201d62860c576094b6c9914d721b5",
+    "wof:geomhash":"4892b1cdad9a127271d9687a376de3c3",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -74,5 +74,5 @@
     47.03333,
     -16.36667000000001
 ],
-  "geometry": {"coordinates":[47.03333,-16.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.03333,-16.36667],"type":"Point"}
 }

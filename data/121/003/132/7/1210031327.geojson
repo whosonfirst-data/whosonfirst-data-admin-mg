@@ -61,7 +61,7 @@
         "wk:page":"Marerano"
     },
     "wof:country":"MG",
-    "wof:geomhash":"0d0a460996cb2a6210a50026452955d7",
+    "wof:geomhash":"d3131cddb5e9112bd6346b044eaf759e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     44.86667,
     -21.36667000000001
 ],
-  "geometry": {"coordinates":[44.86667,-21.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.86667,-21.36667],"type":"Point"}
 }

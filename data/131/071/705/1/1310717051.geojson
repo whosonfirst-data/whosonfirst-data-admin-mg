@@ -61,7 +61,7 @@
         "wk:page":"Soamanonga"
     },
     "wof:country":"MG",
-    "wof:geomhash":"f3c39a975e607354cae979764ff1b413",
+    "wof:geomhash":"bf56bfa1a934868dd4499848499f53e5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     44.78333,
     -23.86667000000001
 ],
-  "geometry": {"coordinates":[44.78333,-23.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.78333,-23.86667],"type":"Point"}
 }

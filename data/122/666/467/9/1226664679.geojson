@@ -54,7 +54,7 @@
         "wk:page":"Marofarihy"
     },
     "wof:country":"MG",
-    "wof:geomhash":"4c4fb5b6543aa0d7102de1415fbb99ea",
+    "wof:geomhash":"d5e4bf113380ee995540315e520ad6a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     48.0,
     -22.03333
 ],
-  "geometry": {"coordinates":[48.0,-22.03333],"type":"Point"}
+  "geometry": {"coordinates":[48,-22.03333],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Mahavelo%2C_Vondrozo"
     },
     "wof:country":"MG",
-    "wof:geomhash":"7a1a84c45a532178e7fc9c4500cbe586",
+    "wof:geomhash":"6ae6893101204e65cfca12dd23da94f7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,5 +84,5 @@
     47.36667,
     -22.36667000000001
 ],
-  "geometry": {"coordinates":[47.36667,-22.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.36667,-22.36667],"type":"Point"}
 }

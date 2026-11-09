@@ -64,7 +64,7 @@
         "wk:page":"Ambahatrazo"
     },
     "wof:country":"MG",
-    "wof:geomhash":"83063833ed5dde0041f99bc7c3c2787a",
+    "wof:geomhash":"a609abf9b1ca3708256abfb1400c6942",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,5 +90,5 @@
     47.95,
     -21.86667000000001
 ],
-  "geometry": {"coordinates":[47.95,-21.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.95,-21.86667],"type":"Point"}
 }

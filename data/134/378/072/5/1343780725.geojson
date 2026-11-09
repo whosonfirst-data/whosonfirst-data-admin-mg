@@ -54,7 +54,7 @@
         "wk:page":"Beanana"
     },
     "wof:country":"MG",
-    "wof:geomhash":"462983e37b607dacaffd7fc76024f016",
+    "wof:geomhash":"2e31af53e9268a68c392be6a01215076",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     48.43333,
     -17.36667000000001
 ],
-  "geometry": {"coordinates":[48.43333,-17.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.43333,-17.36667],"type":"Point"}
 }

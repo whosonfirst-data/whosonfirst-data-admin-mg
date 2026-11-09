@@ -42,7 +42,7 @@
         "wk:page":"Ambolomborona"
     },
     "wof:country":"MG",
-    "wof:geomhash":"326a0114877ed0f3a192594265430598",
+    "wof:geomhash":"a89c52401037ef93f230b2c8df64f957",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     48.18333,
     -16.61667000000001
 ],
-  "geometry": {"coordinates":[48.18333,-16.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.18333,-16.61667],"type":"Point"}
 }

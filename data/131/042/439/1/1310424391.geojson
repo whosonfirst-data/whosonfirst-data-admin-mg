@@ -54,7 +54,7 @@
         "wk:page":"Enaniliha"
     },
     "wof:country":"MG",
-    "wof:geomhash":"d32ac43082fad5b1d454c9d17a722733",
+    "wof:geomhash":"f10f40a490d537ed84fda926413db19d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     46.87347000000001,
     -24.65607
 ],
-  "geometry": {"coordinates":[46.87347000000001,-24.65607],"type":"Point"}
+  "geometry": {"coordinates":[46.87347,-24.65607],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Efatsy_Anandroza"
     },
     "wof:country":"MG",
-    "wof:geomhash":"34af1f131e08b9f0693b90196f71f799",
+    "wof:geomhash":"3fb030637a6d441593142e6c69c6ba02",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,5 +85,5 @@
     47.6,
     -23.11667000000001
 ],
-  "geometry": {"coordinates":[47.6,-23.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.6,-23.11667],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Sendrisoa"
     },
     "wof:country":"MG",
-    "wof:geomhash":"f61403225c5b0b9da0f0059a5af18d53",
+    "wof:geomhash":"61df925d1d7a04a4931399314715ff74",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     46.95,
     -22.0
 ],
-  "geometry": {"coordinates":[46.95,-22.0],"type":"Point"}
+  "geometry": {"coordinates":[46.95,-22],"type":"Point"}
 }

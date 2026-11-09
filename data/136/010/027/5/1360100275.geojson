@@ -59,7 +59,7 @@
         "wk:page":"Miary_Lamatihy"
     },
     "wof:country":"MG",
-    "wof:geomhash":"948e7823edd8a3e61ca7ecced0830e05",
+    "wof:geomhash":"b51135530dabdc25c828513404182933",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,5 +85,5 @@
     44.46667,
     -22.86667000000001
 ],
-  "geometry": {"coordinates":[44.46667,-22.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.46667,-22.86667],"type":"Point"}
 }

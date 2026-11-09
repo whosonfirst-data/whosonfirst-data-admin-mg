@@ -72,7 +72,7 @@
         "wk:page":"Ambatomainty"
     },
     "wof:country":"MG",
-    "wof:geomhash":"05c810519b62cf98e8249219cefdf0eb",
+    "wof:geomhash":"b767cff63cea1c23aa602d92392d5e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,5 +98,5 @@
     45.66667,
     -17.68332999999999
 ],
-  "geometry": {"coordinates":[45.66667,-17.68332999999999],"type":"Point"}
+  "geometry": {"coordinates":[45.66667,-17.68333],"type":"Point"}
 }

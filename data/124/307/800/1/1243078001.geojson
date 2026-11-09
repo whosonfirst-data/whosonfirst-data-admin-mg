@@ -54,7 +54,7 @@
         "wk:page":"Mahazoarivo%2C_Fianarantsoa_II"
     },
     "wof:country":"MG",
-    "wof:geomhash":"a72aeffdd0d31c69096a13d7ac0f6770",
+    "wof:geomhash":"06806be0cef3ff8da12224612497d8e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     46.81667,
     -21.36667000000001
 ],
-  "geometry": {"coordinates":[46.81667,-21.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.81667,-21.36667],"type":"Point"}
 }
