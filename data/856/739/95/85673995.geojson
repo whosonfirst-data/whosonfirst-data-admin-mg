@@ -183,9 +183,6 @@
     "name:vie_x_preferred":[
         "Betsiboka"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u8d1d\u9f50\u5e03\u5361\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u8c9d\u5947\u6ce2\u52a0"
     ],
@@ -320,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1695884969,
+    "wof:lastmodified":1794999722,
     "wof:name":"Betsiboka",
     "wof:parent_id":85632223,
     "wof:placetype":"region",
