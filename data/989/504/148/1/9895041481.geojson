@@ -1,0 +1,74 @@
+{
+  "id": 9895041481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.255,-13.3,48.255,-13.3",
+    "geom:latitude":-13.3,
+    "geom:longitude":48.255,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1058089: name \"Nosy-Be\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1058089"
+        },
+        {
+            "citation":"GeoNames populated place 1058089: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1058089"
+        },
+        {
+            "citation":"GeoNames populated place 1058089: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1058089"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890452057 (Nosy-Be), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85674009,
+        102191573,
+        890452057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058089
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"01ca9e89869c5c0e8723cae7288ad623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452057,
+            "locality_id":9895041481,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":9895041481,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Nosy-Be",
+    "wof:parent_id":890452057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.255,
+    -13.3,
+    48.255,
+    -13.3
+],
+  "geometry": {"coordinates":[48.255,-13.3],"type":"Point"}
+}

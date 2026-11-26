@@ -1,0 +1,74 @@
+{
+  "id": 9895041489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.43333,-20.43333,47.43333,-20.43333",
+    "geom:latitude":-20.43333,
+    "geom:longitude":47.43333,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1065221: name \"Fandriana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1065221"
+        },
+        {
+            "citation":"GeoNames populated place 1065221: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1065221"
+        },
+        {
+            "citation":"GeoNames populated place 1065221: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1065221"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171215 (Fandriana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85673959,
+        102191573,
+        421171215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065221
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5825a0955ec2759ab1e30888122a66d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171215,
+            "locality_id":9895041489,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":9895041489,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Fandriana",
+    "wof:parent_id":421171215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.43333,
+    -20.43333,
+    47.43333,
+    -20.43333
+],
+  "geometry": {"coordinates":[47.43333,-20.43333],"type":"Point"}
+}

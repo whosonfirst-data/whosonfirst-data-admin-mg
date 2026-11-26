@@ -1,0 +1,74 @@
+{
+  "id": 9895041482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91667,-17.81667,44.91667,-17.81667",
+    "geom:latitude":-17.81667,
+    "geom:longitude":44.91667,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1058563: name \"Morafenobe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1058563"
+        },
+        {
+            "citation":"GeoNames populated place 1058563: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1058563"
+        },
+        {
+            "citation":"GeoNames populated place 1058563: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1058563"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108801195 (Morafenobe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85674029,
+        102191573,
+        1108801195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058563
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f1c955e8942dfaa1df5e41e4c72ca20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801195,
+            "locality_id":9895041482,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":9895041482,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Morafenobe",
+    "wof:parent_id":1108801195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91667,
+    -17.81667,
+    44.91667,
+    -17.81667
+],
+  "geometry": {"coordinates":[44.91667,-17.81667],"type":"Point"}
+}

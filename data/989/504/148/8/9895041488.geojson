@@ -1,0 +1,74 @@
+{
+  "id": 9895041488,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65,-23.1,46.65,-23.1",
+    "geom:latitude":-23.1,
+    "geom:longitude":46.65,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1064544: name \"Iakora\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1064544"
+        },
+        {
+            "citation":"GeoNames populated place 1064544: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1064544"
+        },
+        {
+            "citation":"GeoNames populated place 1064544: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1064544"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421184613 (Iakora), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85674019,
+        102191573,
+        421184613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064544
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b75948031c2384c0d14dbbd5defb9247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184613,
+            "locality_id":9895041488,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":9895041488,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Iakora",
+    "wof:parent_id":421184613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65,
+    -23.1,
+    46.65,
+    -23.1
+],
+  "geometry": {"coordinates":[46.65,-23.1],"type":"Point"}
+}

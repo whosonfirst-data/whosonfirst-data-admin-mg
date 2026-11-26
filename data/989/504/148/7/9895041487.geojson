@@ -1,0 +1,75 @@
+{
+  "id": 9895041487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.88333,-22.48333,46.88333,-22.48333",
+    "geom:latitude":-22.48333,
+    "geom:longitude":46.88333,
+    "gn:population":22290,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1063835: name \"Ivohibe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1063835"
+        },
+        {
+            "citation":"GeoNames populated place 1063835: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1063835"
+        },
+        {
+            "citation":"GeoNames populated place 1063835: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1063835"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421201529 (Ivohibe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85674019,
+        102191573,
+        421201529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063835
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3877859454882dbe5e6161916cf57bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421201529,
+            "locality_id":9895041487,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":9895041487,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Ivohibe",
+    "wof:parent_id":421201529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.88333,
+    -22.48333,
+    46.88333,
+    -22.48333
+],
+  "geometry": {"coordinates":[46.88333,-22.48333],"type":"Point"}
+}

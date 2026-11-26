@@ -1,0 +1,74 @@
+{
+  "id": 9895041497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16577,-21.57061,47.16577,-21.57061",
+    "geom:latitude":-21.57061,
+    "geom:longitude":47.16577,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747627: name \"Ambalamindramena\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747627"
+        },
+        {
+            "citation":"GeoNames populated place 11747627: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747627"
+        },
+        {
+            "citation":"GeoNames populated place 11747627: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747627"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108801219 (Vohibato), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85674013,
+        102191573,
+        1108801219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747627
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2ef146f58dbcbc6f75746b9ee28ef321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801219,
+            "locality_id":9895041497,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":9895041497,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Ambalamindramena",
+    "wof:parent_id":1108801219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16577,
+    -21.57061,
+    47.16577,
+    -21.57061
+],
+  "geometry": {"coordinates":[47.16577,-21.57061],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895041478,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83333,-22.35,47.83333,-22.35",
+    "geom:latitude":-22.35,
+    "geom:longitude":47.83333,
+    "gn:population":15622,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1053765: name \"Vohipeno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1053765"
+        },
+        {
+            "citation":"GeoNames populated place 1053765: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1053765"
+        },
+        {
+            "citation":"GeoNames populated place 1053765: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1053765"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421184623 (Vohipeno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85674045,
+        102191573,
+        421184623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053765
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e33fbe5cdb805b72f4bd6d9adf414549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184623,
+            "locality_id":9895041478,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":9895041478,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Vohipeno",
+    "wof:parent_id":421184623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83333,
+    -22.35,
+    47.83333,
+    -22.35
+],
+  "geometry": {"coordinates":[47.83333,-22.35],"type":"Point"}
+}
