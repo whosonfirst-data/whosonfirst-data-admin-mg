@@ -1,0 +1,75 @@
+{
+  "id": 9895041490,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08333,-23.26667,46.08333,-23.26667",
+    "geom:latitude":-23.26667,
+    "geom:longitude":46.08333,
+    "gn:population":18350,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1066248: name \"Betroka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1066248"
+        },
+        {
+            "citation":"GeoNames populated place 1066248: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1066248"
+        },
+        {
+            "citation":"GeoNames populated place 1066248: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1066248"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175089 (Betroka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85673977,
+        102191573,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066248
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e01c0abfabc56828b594319ab2321585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":9895041490,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":9895041490,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Betroka",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08333,
+    -23.26667,
+    46.08333,
+    -23.26667
+],
+  "geometry": {"coordinates":[46.08333,-23.26667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895041501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.28941,-18.48892,49.28941,-18.48892",
+    "geom:latitude":-18.48892,
+    "geom:longitude":49.28941,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11979381: name \"Akanin'ny Nofy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11979381"
+        },
+        {
+            "citation":"GeoNames populated place 11979381: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11979381"
+        },
+        {
+            "citation":"GeoNames populated place 11979381: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11979381"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108801145 (Brickaville), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        85673991,
+        102191573,
+        1108801145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11979381
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"42e8f6538df6f12668120a274decb73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801145,
+            "locality_id":9895041501,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":9895041501,
+    "wof:lastmodified":1795735155,
+    "wof:name":"Akanin'ny Nofy",
+    "wof:parent_id":1108801145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.28941,
+    -18.48892,
+    49.28941,
+    -18.48892
+],
+  "geometry": {"coordinates":[49.28941,-18.48892],"type":"Point"}
+}
