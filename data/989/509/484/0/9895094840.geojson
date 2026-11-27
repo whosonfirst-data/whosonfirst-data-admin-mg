@@ -1,0 +1,78 @@
+{
+  "id": 9895094840,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.00162,-20.78219,48.00162,-20.78219",
+    "geom:latitude":-20.78219,
+    "geom:longitude":48.00162,
+    "gn:population":705675,
+    "iso:country":"MG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12494968 (Vatovavy Region): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12494968"
+        },
+        {
+            "citation":"GeoNames division 12494968 (Vatovavy Region): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12494968"
+        },
+        {
+            "citation":"GeoNames division 12494968 (Vatovavy Region): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12494968"
+        },
+        {
+            "citation":"GeoNames division 12494968 (Vatovavy Region): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12494968"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Vatovavy"
+    ],
+    "name:eng_x_variant":[
+        "Vatovavy Region"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12494968
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c3e3c09d9e593fda874b215dc83f2c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "region_id":9895094840
+        }
+    ],
+    "wof:id":9895094840,
+    "wof:lastmodified":1795801313,
+    "wof:name":"Vatovavy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.00162,
+    -20.78219,
+    48.00162,
+    -20.78219
+],
+  "geometry": {"coordinates":[48.00162,-20.78219],"type":"Point"}
+}
