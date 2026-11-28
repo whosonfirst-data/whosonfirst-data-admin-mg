@@ -45,7 +45,7 @@
     "wof:belongsto":[
         102191573,
         85632223,
-        85674045,
+        9895094839,
         421184623
     ],
     "wof:breaches":[],
@@ -60,11 +60,11 @@
             "country_id":85632223,
             "county_id":421184623,
             "locality_id":1225863481,
-            "region_id":85674045
+            "region_id":9895094839
         }
     ],
     "wof:id":1225863481,
-    "wof:lastmodified":1566605215,
+    "wof:lastmodified":1795841685,
     "wof:name":"Ambodimanga",
     "wof:parent_id":421184623,
     "wof:placetype":"locality",

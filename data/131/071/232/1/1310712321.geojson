@@ -54,7 +54,7 @@
     "wof:belongsto":[
         102191573,
         85632223,
-        85674045,
+        9895094839,
         421198091
     ],
     "wof:breaches":[],
@@ -69,11 +69,11 @@
             "country_id":85632223,
             "county_id":421198091,
             "locality_id":1310712321,
-            "region_id":85674045
+            "region_id":9895094839
         }
     ],
     "wof:id":1310712321,
-    "wof:lastmodified":1566604563,
+    "wof:lastmodified":1795841685,
     "wof:name":"Mahavelona",
     "wof:parent_id":421198091,
     "wof:placetype":"locality",

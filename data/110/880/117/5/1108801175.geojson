@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191573,
         85632223,
-        85674045
+        9895094839
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,13 +50,13 @@
             "continent_id":102191573,
             "country_id":85632223,
             "county_id":1108801175,
-            "region_id":85674045
+            "region_id":9895094839
         }
     ],
     "wof:id":1108801175,
-    "wof:lastmodified":1695887128,
+    "wof:lastmodified":1795841685,
     "wof:name":"Manakara Atsimo",
-    "wof:parent_id":85674045,
+    "wof:parent_id":9895094839,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",

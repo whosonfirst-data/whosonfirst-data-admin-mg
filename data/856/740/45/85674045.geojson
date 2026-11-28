@@ -2,7 +2,7 @@
   "id": 85674045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021",
     "edtf:inception":"uuuu",
     "geom:area":1.831404,
     "geom:area_square_m":21091290503.215527,
@@ -27,7 +27,7 @@
     "mps:latitude":-21.299476,
     "mps:longitude":47.872931,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
@@ -317,14 +317,17 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1695884971,
+    "wof:lastmodified":1795841685,
     "wof:name":"Vatovavy-Fitovinany",
     "wof:parent_id":85632223,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:shortcode":"VF",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        9895094839,
+        9895094840
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632223,
-        85674045,
+        9895094839,
         1108801175
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632223,
             "county_id":1108801175,
             "locality_id":1259802389,
-            "region_id":85674045
+            "region_id":9895094839
         }
     ],
     "wof:id":1259802389,
-    "wof:lastmodified":1566605112,
+    "wof:lastmodified":1795841685,
     "wof:name":"Mahavelo",
     "wof:parent_id":1108801175,
     "wof:placetype":"locality",

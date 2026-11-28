@@ -42,7 +42,7 @@
     "wof:belongsto":[
         102191573,
         85632223,
-        85674045,
+        9895094840,
         1108801199
     ],
     "wof:breaches":[],
@@ -57,11 +57,11 @@
             "country_id":85632223,
             "county_id":1108801199,
             "locality_id":1276883951,
-            "region_id":85674045
+            "region_id":9895094840
         }
     ],
     "wof:id":1276883951,
-    "wof:lastmodified":1566604075,
+    "wof:lastmodified":1795841685,
     "wof:name":"Ampasimaneva",
     "wof:parent_id":1108801199,
     "wof:placetype":"locality",

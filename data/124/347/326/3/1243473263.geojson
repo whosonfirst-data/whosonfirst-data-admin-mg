@@ -111,7 +111,7 @@
     "wof:belongsto":[
         102191573,
         85632223,
-        85674045,
+        9895094840,
         421197047
     ],
     "wof:breaches":[],
@@ -126,11 +126,11 @@
             "country_id":85632223,
             "county_id":421197047,
             "locality_id":1243473263,
-            "region_id":85674045
+            "region_id":9895094840
         }
     ],
     "wof:id":1243473263,
-    "wof:lastmodified":1636506401,
+    "wof:lastmodified":1795841685,
     "wof:name":"Anosy",
     "wof:parent_id":421197047,
     "wof:placetype":"locality",
